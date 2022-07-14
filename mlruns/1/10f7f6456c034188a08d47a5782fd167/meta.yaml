@@ -1,0 +1,15 @@
+artifact_uri: file:///home/j3ssus/Escritorio/projects/mlops/labo05_mlflow_pipeline/mlruns/1/10f7f6456c034188a08d47a5782fd167/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 10f7f6456c034188a08d47a5782fd167
+run_uuid: 10f7f6456c034188a08d47a5782fd167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657838312950
+status: 1
+tags: []
+user_id: j3ssus
